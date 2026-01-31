@@ -8,3 +8,6 @@ lint:
 
 run: 
 	./bin/hexlet-path-size
+
+test:
+	go test ./...

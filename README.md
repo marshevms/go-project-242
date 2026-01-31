@@ -5,3 +5,7 @@
 ### CI Status:
 
 [![CI](https://github.com/marshevms/go-project-242/actions/workflows/ci.yml/badge.svg)](https://github.com/marshevms/go-project-242/actions/workflows/ci.yml)
+
+### Tests Status:
+
+[![Tests](https://github.com/marshevms/go-project-242/actions/workflows/test.yml/badge.svg)](https://github.com/marshevms/go-project-242/actions/workflows/test.yml)
